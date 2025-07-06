@@ -1,4 +1,4 @@
-Author: Dhiraj Kumar | Email: dhiraj8899@gmail.com | June 2025
+Author: Dhiraj Kumar | June 2025
 
 # Credit risk xai
 Credit_Risk_SHAP
