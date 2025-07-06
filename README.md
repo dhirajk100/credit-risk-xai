@@ -1,11 +1,9 @@
+Author: Dhiraj Kumar | Email: dhiraj8899@gmail.com | June 2025
+
 # credit-risk-xai
 Credit_Risk_SHAP
 Explainable Machine Learning for Credit Risk Prediction
 Explainable Machine Learning Models for Credit Risk Prediction in Retail Lending: A Comparative Study Using SHAP 
-
-Author: Dhiraj Kumar
-Email: dhiraj8899@gmail.com 
-June 2025
 
 This benchmarks XGBoost, Random Forest, and Logistic Regression on publicly available credit datasets, evaluating both predictive performance and interpretability using SHAP (SHapley Additive exPlanations).
 The goal is to develop machine learning models that are both accurate and explainable to support fair and regulatory-compliant lending decisions.
