@@ -1,6 +1,6 @@
 Author: Dhiraj Kumar | Email: dhiraj8899@gmail.com | June 2025
 
-# credit-risk-xai
+# Credit risk xai
 Credit_Risk_SHAP
 Explainable Machine Learning for Credit Risk Prediction
 Explainable Machine Learning Models for Credit Risk Prediction in Retail Lending: A Comparative Study Using SHAP 
